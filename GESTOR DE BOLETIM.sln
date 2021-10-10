@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GESTOR DE BOLETIM", "GESTOR DE BOLETIM\GESTOR DE BOLETIM.vbproj", "{0F68091A-5BCE-4A07-A4E9-50F502295BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		IMPLANTAR|Any CPU = IMPLANTAR|Any CPU
+		IMPLANTAR|x86 = IMPLANTAR|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.Debug|Any CPU.ActiveCfg = ANALISAR|Any CPU
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.Debug|Any CPU.Build.0 = ANALISAR|Any CPU
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.Debug|x86.ActiveCfg = CRIAR .EXE|x86
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.Debug|x86.Build.0 = CRIAR .EXE|x86
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.IMPLANTAR|Any CPU.ActiveCfg = IMPLANTAR|Any CPU
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.IMPLANTAR|Any CPU.Build.0 = IMPLANTAR|Any CPU
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.IMPLANTAR|x86.ActiveCfg = IMPLANTAR|x86
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.IMPLANTAR|x86.Build.0 = IMPLANTAR|x86
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.Release|Any CPU.ActiveCfg = CRIAR .EXE|Any CPU
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.Release|Any CPU.Build.0 = CRIAR .EXE|Any CPU
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.Release|x86.ActiveCfg = ANALISAR|x86
+		{0F68091A-5BCE-4A07-A4E9-50F502295BF7}.Release|x86.Build.0 = ANALISAR|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3666B5-9AC2-425E-A3E7-7F1D7C16F28B}
+	EndGlobalSection
+EndGlobal
